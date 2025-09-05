@@ -15,9 +15,9 @@ A SwiftUI iOS app demonstrating onboarding, user profile, Core Data, networking,
 
 ---
 
-## **Screenshots**
+## **Wireframe**
 
-![App Screenshot](Images/wireframe.png)
+![Wireframe](Images/wireframe.png)
 
 ---
 
