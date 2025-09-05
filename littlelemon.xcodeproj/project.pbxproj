@@ -35,16 +35,6 @@
 			path = littlelemon;
 			sourceTree = "<group>";
 		};
-		5BA66DA22E69F38E009D446E /* littlelemonTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = littlelemonTests;
-			sourceTree = "<group>";
-		};
-		5BA66DAC2E69F38E009D446E /* littlelemonUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = littlelemonUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				5BA66D8F2E69F38D009D446E /* littlelemon */,
-				5BA66DA22E69F38E009D446E /* littlelemonTests */,
-				5BA66DAC2E69F38E009D446E /* littlelemonUITests */,
 				5BA66D8E2E69F38D009D446E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				5BA66DA12E69F38E009D446E /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				5BA66DA22E69F38E009D446E /* littlelemonTests */,
-			);
 			name = littlelemonTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				5BA66DAB2E69F38E009D446E /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				5BA66DAC2E69F38E009D446E /* littlelemonUITests */,
 			);
 			name = littlelemonUITests;
 			packageProductDependencies = (
